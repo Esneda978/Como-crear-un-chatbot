@@ -327,7 +327,7 @@ Obtener respuestas más útiles de la IA
 
 Reducir el tiempo de desarrollo
 
-Evitar malentendidos y iteraciones innecesarias
+Evitar malentendidos y iteraciones innecesarias 
 
 Asegurar que se incluyan todos los elementos necesarios
 
